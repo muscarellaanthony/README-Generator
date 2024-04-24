@@ -1,5 +1,5 @@
+const inquirer = require('inquirer');
 const fs = require('fs');
-const colors = require('colors')
 const generateMarkdown = require("./generateMarkdown");
 
 // TODO: Include packages needed for this application
