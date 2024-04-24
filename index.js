@@ -63,7 +63,7 @@ function init() {
         //pass the answers to the big string
         const string = generateMarkdown(answers)
         //write the file with that string
-        writeToFile('readme2.md', string)
+        writeToFile('SampleREADME.md', string)
     })
 }
 
